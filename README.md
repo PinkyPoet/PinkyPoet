@@ -1,7 +1,7 @@
 ### Hey You, Wassup, 👋 call me Poet
 
-- 🔭 I’m currently working on Python and PHP😎
-- 🤳 Skills: Ubuntu Linux / C Language / HTML / CSS / Javascript
+- 🔭 I’m currently working on Python Language😎
+- 🤳 Skills: Ubuntu Linux / C Language / HTML / CSS / Javascript / PHP
 - 💬 Ask me about tech ideas I don't know of😂
 - 📫 How to reach me: Instagram    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/m.o.m_a.n.y.i/)  
 - ⚡ Fun fact: The Firefox logo isn't a fox… it's a red panda!😜
